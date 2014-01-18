@@ -19,4 +19,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency "activerecord", "~> 4.0"
   s.add_dependency "rake"
+  s.add_development_dependency "minitest"
 end
